@@ -1,0 +1,40 @@
+# Core data libraries
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# NLP libraries
+spacy==3.7.2
+nltk==3.9.1
+transformers==4.44.2
+datasets==3.0.1
+torch==2.4.1
+tqdm==4.66.5
+
+# Frontend / API (optional for later stages)
+flask==3.0.3
+flask-cors==4.0.1
+streamlit==1.39.0
+
+# Utility
+pathlib==1.0.1
+
+# Core
+transformers>=4.30.0
+torch>=2.0.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+numpy>=1.23.0
+
+# For simple dashboard
+streamlit>=1.26.0
+
+# RAG / similarity
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4; platform_system != "Windows"
+
+# Utilities
+gradio>=3.30.0
+pytest>=7.0.0
+tqdm
+
