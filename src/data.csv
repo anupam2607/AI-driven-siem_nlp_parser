@@ -1,0 +1,5 @@
+text,label
+Suspicious login attempt,login_attack
+Malware detected on endpoint,malware
+Phishing email reported,phishing
+User login successful,normal
